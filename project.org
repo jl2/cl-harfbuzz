@@ -1,0 +1,12 @@
+* cl-harfbuzz
+** About
+Common Lisp bindings to [[https://github.com/harfbuzz/harfbuzz][HarfBuzz]]
+
+** License
+ISC
+
+Copyright (c) 2020 Jeremiah LaRocco <jeremiah_larocco@fastmail.com>
+
+
+* Todo
+** TODO Add higher-level "Lispy" interface.
